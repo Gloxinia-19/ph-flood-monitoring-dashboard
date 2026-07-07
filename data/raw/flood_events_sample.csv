@@ -1,0 +1,5 @@
+event_date,region,province,municipality,latitude,longitude,flood_area,affected_families,affected_persons,source
+2025-01-04,Davao Region,Davao del Norte,Carmen,7.3606,125.7064,12.5,320,1280,Sample DROMIC
+2025-01-04,Davao Region,Davao del Norte,Panabo City,7.3081,125.6841,18.2,540,2160,Sample DROMIC
+2025-01-04,Davao Region,Davao de Oro,Monkayo,7.8153,126.0544,9.8,210,840,Sample DROMIC
+2025-01-04,Davao Region,Davao Oriental,Lupon,6.8981,126.0096,14.1,380,1520,Sample DROMIC
