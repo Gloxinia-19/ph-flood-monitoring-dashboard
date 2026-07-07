@@ -4,17 +4,17 @@ event_date,region,province,municipality,latitude,longitude,flood_area,affected_f
 2025-01-04,Davao Region,Davao de Oro,Monkayo,7.8153,126.0544,9.8,210,840,Sample DROMIC
 2025-01-04,Davao Region,Davao Oriental,Lupon,6.8981,126.0096,14.1,380,1520,Sample DROMIC
 2025-01-11,Northern Mindanao,Misamis Oriental,Cagayan de Oro City,8.4542,124.6319,22.4,760,3040,Sample Data
-2025-01-12,Northern Mindanao,Lanao del Norte,Iligan City,8.2280,124.2452,16.7,430,1720,Sample Data
+2025-01-12,Northern Mindanao,Lanao del Norte,Iligan City,8.228,124.2452,16.7,430,1720,Sample Data
 2025-01-18,National Capital Region,Metro Manila,Marikina City,14.6507,121.1029,10.3,680,2720,Sample Data
 2025-01-19,National Capital Region,Metro Manila,Malabon City,14.6681,120.9658,8.9,520,2080,Sample Data
 2025-01-21,Central Luzon,Bulacan,Hagonoy,14.8341,120.7339,25.6,910,3640,Sample Data
 2025-01-22,Central Luzon,Bulacan,Calumpit,14.9164,120.7658,20.8,790,3160,Sample Data
 2025-01-24,Central Luzon,Pampanga,San Fernando City,15.0343,120.6844,17.5,610,2440,Sample Data
-2025-01-25,Central Luzon,Pampanga,Masantol,14.8960,120.7090,19.2,700,2800,Sample Data
+2025-01-25,Central Luzon,Pampanga,Masantol,14.896,120.709,19.2,700,2800,Sample Data
 2025-02-02,Caraga,Agusan del Sur,Bayugan City,8.7561,125.7675,21.9,580,2320,Sample Data
 2025-02-03,Soccsksargen,Cotabato,Kabacan,7.1067,124.8292,15.4,410,1640,Sample Data
 2025-02-05,Eastern Visayas,Leyte,Tacloban City,11.2449,125.0039,13.6,360,1440,Sample Data
 2025-02-06,Bangsamoro Autonomous Region in Muslim Mindanao,Maguindanao,Datu Odin Sinsuat,7.0147,124.3867,24.8,850,3400,Sample Data
 2025-02-08,Bicol Region,Camarines Sur,Naga City,13.6218,123.1948,11.2,300,1200,Sample Data
-2025-02-09,Cagayan Valley,Cagayan,Tuguegarao City,17.6132,121.7270,18.6,550,2200,Sample Data
+2025-02-09,Cagayan Valley,Cagayan,Tuguegarao City,17.6132,121.727,18.6,550,2200,Sample Data
 2025-02-10,Western Visayas,Iloilo,Iloilo City,10.7202,122.5621,9.4,260,1040,Sample Data
